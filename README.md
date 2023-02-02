@@ -3,8 +3,11 @@ Welcome to my metric converter! Here is a guideline to help you get started:
 
 This program accepts the following conversions:
     Kilometers to meters 
+    Kilometers to miles
+    Kilometers/hour to miles/hour
     Kilograms to pounds 
     Meters to feet 
+    
     And vise versa!
     
 To receive a conversion your query should be formatting as the following:
