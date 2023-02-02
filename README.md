@@ -1,5 +1,5 @@
 
-Welcome to my metric converter. Here is a guideline to help you get started:
+Welcome to my metric converter! Here is a guideline to help you get started:
 
 This program accepts the following conversions:
     Kilometers to meters 
